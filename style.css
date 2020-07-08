@@ -1,0 +1,177 @@
+.nav-hero-area {
+  background-color: #f0fff0;
+}
+.logo {
+  width: 40%;
+  padding-bottom: 10px;
+}
+.hero-area {
+  margin-top: 50px;
+}
+.nav-link {
+  color: #707070;
+  margin-left: 30px;
+  font-weight: 500;
+}
+.span-class {
+  display: block;
+}
+.orange {
+  color: #fd511a;
+  font-size: 20px;
+  font-weight: 500;
+}
+.green {
+  color: #21b573;
+}
+.left-element {
+  padding: 50px 50px;
+}
+.left-element h1 {
+  font-weight: 700;
+  line-height: 1.5;
+  font-family: "Poppins", sans-serif;
+}
+.sign-in {
+  margin-top: 5px;
+  margin-left: 20px;
+  padding: 5px;
+  width: 75px;
+  border: none;
+  border-radius: 20px;
+  background-color: #21b573;
+  color: white;
+  font-size: 15px;
+}
+.get-start {
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  background-color: #21b573;
+  color: white;
+  font-size: 15px;
+  font-weight: 500;
+}
+.big-img {
+  margin-right: 100px;
+  width: 100%;
+}
+
+.statistic {
+  margin-top: 40px;
+}
+.stat {
+  border: none;
+  border-radius: 5px;
+  padding-top: 25px;
+  background-color: #f8fffb;
+  line-height: 0.5;
+}
+.special img {
+  width: 22% !important;
+}
+.stat img {
+  width: 25%;
+}
+.stat:hover {
+  box-shadow: 0 0 30px rgba(33, 33, 33, 0.2);
+}
+.card-deck {
+  margin-top: 50px;
+}
+
+.buy-crs {
+  padding: 5px 15px;
+  width: fit-content;
+  border: none;
+  border-radius: 15px;
+  background-color: #21b573;
+  color: white;
+  font-size: 10px;
+  font-weight: 400;
+}
+.psycho {
+  border: 1px;
+  border-color: #f0fff0;
+  border-radius: 15px;
+  width: 90%;
+  margin: 20px;
+}
+.course {
+  background-color: #ffffff;
+  border: 1px;
+  border-radius: 15px;
+  box-shadow: 0 0 30px rgba(33, 33, 33, 0.2);
+}
+.time-seat {
+  width: 5%;
+  padding-bottom: 5px;
+}
+.timing-info {
+  margin-left: 0px;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+.seat {
+  margin-left: 20%;
+}
+.testimonial {
+  margin: 80px auto;
+}
+.testimony {
+  margin: 30px 150px;
+  font-weight: 500;
+}
+.man {
+  width: 50%;
+}
+.qoute {
+  width: 5%;
+  margin-bottom: 5px;
+}
+.footer {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  background-color: #282531;
+}
+.footer-menu {
+  color: #eafaea;
+}
+.sub-menu li {
+  list-style: none;
+}
+.m-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.copy {
+  margin-top: 30px;
+}
+.form-cont {
+  margin-bottom: 50px;
+}
+.form-area {
+  background-image: url(img/Photos/s1.png);
+  display: inline !important;
+}
+.form1 {
+  margin-top: 50px;
+  margin-left: 50px;
+  color: #f0fff0;
+}
+.img-sec {
+  border: none;
+  border-radius: 10px;
+}
+.enroll-now {
+  padding: 5px 15px;
+  width: fit-content;
+  border: none;
+  border-radius: 15px;
+  background-color: #ebf9ff;
+  color: blue;
+  font-size: 20px;
+  font-weight: 600;
+}
